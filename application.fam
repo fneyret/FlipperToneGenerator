@@ -7,5 +7,5 @@ App(
     stack_size=2 * 1024,
     order = 30,
     fap_icon="tgico.png",
-    fap_category="Music",
+    fap_category="Media",
 )
